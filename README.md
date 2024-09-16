@@ -3,7 +3,7 @@ This application is based on [RSScholl task](https://github.com/rolling-scopes-s
 
 #### Description 📝
 
-It's a **Body Care shop**, where customers enjoy of buying a lot of body care products. Our application can help customers to find a lot useful products and see information about them, customers also can create accounts, sort products, add some products in basket, send oders and a lot of other things.
+A web application, **Body Care shop**, where customers can browse, sort, and purchase a variety of body care products. Users can create accounts, add products to their basket, and place orders. Was built by a team of 3 developers, focusing on providing a seamless shopping experience and integrating key e-commerce functionalities.
 
 
 # Our team::sunglasses:
